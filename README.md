@@ -9,3 +9,5 @@ As a StatPGX admin, I need to be able to login to a secure portal and view/print
 ![](https://i.imgur.com/4xa61Cm.png)
 
 ![](https://i.imgur.com/2cg2yZv.png)
+
+![](https://i.imgur.com/gIWlTpe.png)
