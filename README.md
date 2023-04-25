@@ -25,6 +25,8 @@ As a StatPGX admin, I need to be able to login to a secure portal and view/print
 
 ![](https://i.imgur.com/tCtA0Hf.png)
 
+![](https://i.imgur.com/I5AoJr6.png)
+
 
 ## STATPGX-20
 
@@ -36,3 +38,4 @@ As a StatPGX admin, I need to be able to login to a secure portal and view/print
 
 ![](https://i.imgur.com/LesHAK2.png)
 
+![](https://i.imgur.com/gXnXbtV.png)
